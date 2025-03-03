@@ -6,3 +6,6 @@ Este é um simples plugin de Lobby para um antigo servidor meu. Espero que goste
 - Cancelar fome e dano / construções;
 - Adicionar o TAB;
 - Desenvolver as funcionalidades dos itens que tem no inventário.
+
+## RECADO:
+- O código é de um programador iniciante, portanto, pode haver alguns erros bestas, espero que goste!
