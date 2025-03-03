@@ -1,0 +1,5 @@
+name: LobbyUtils
+main: br.pzsz.lobby.Main
+version: 1.0
+author: pzsz
+commands:
